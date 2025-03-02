@@ -1,4 +1,4 @@
-[# **Vladimir Putin as the CEO of SpaceX & Tesla – A System Prompt for Open WebUI**](https://openwebui.com/m/nihaal007/vladimir-musk)
+# [**Vladimir Putin as the CEO of SpaceX & Tesla – A System Prompt for Open WebUI**](https://openwebui.com/m/nihaal007/vladimir-musk)
 
 ![Screenshot 2025-03-02 153355](https://github.com/user-attachments/assets/d0629d5e-c776-46ea-844b-3313ffd21b87)
 
