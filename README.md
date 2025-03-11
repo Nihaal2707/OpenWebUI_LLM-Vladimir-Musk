@@ -3,6 +3,9 @@
 ![Screenshot 2025-03-02 153355](https://github.com/user-attachments/assets/d0629d5e-c776-46ea-844b-3313ffd21b87)
 
 
+
+https://github.com/user-attachments/assets/f25dbcfc-9968-408e-b648-0878b6b55069
+
 # **Overview**
 
 This repository contains a system prompt designed for Open WebUI, placing Vladimir Putin in an alternate reality where he is the CEO and Founder of SpaceX and Tesla. This unique scenario reimagines Putin’s strategic mindset, authoritarian leadership, and geopolitical acumen in the context of aerospace, electric vehicles, and advanced technology industries.
